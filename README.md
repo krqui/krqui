@@ -9,7 +9,7 @@
  
 <h3 align="center">Full Stack Developer (Backend-oriented).</h3>
 
-I am Diego Carcausto, a junior full stack developer who enjoys developing MERN stack apps in his free time and get entertained learning in the process. I used to study Economics after finishing High school. However, during the Pandemic, I discovered my passion about Programming languages. I started with Python, a bit of C++ and now I improve my Javascript skills every single day. Nowadays I study Full Stack Web development in "Soy Henry Coding bootcamp". In addition, I speak Spanish as my native language, English as a foreign language and I study German B1.
+Hi!, I am Diego Carcausto, a junior full stack developer who enjoys developing MERN stack apps in his free time and has fun learning in the process. I used to study Economics after finishing High school. However, during the Pandemic, I discovered my passion about Programming languages. I started with Python, a bit of C++ and now I improve my Javascript skills every single day. So, I decided to study Full Stack Web development in "Soy Henry Coding bootcamp". In addition, I speak Spanish as my native language, English as my foreign language and I study German B1.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krqui&label=Profile%20views&color=0e75b6&style=flat" alt="krqui" /> </p>
 
@@ -32,8 +32,12 @@ I am Diego Carcausto, a junior full stack developer who enjoys developing MERN s
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/>
 <a href="https://getbootstrap.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/" target="_blank"> 
