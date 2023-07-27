@@ -7,16 +7,13 @@
     <img width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 </p>
  
-<h3 align="center">Front-End/mobile developer</h3>
+<h3 align="center">Front-End/Mobile developer</h3>
 
-Hi! I'm Diego Carcausto, a software developer who enjoys developing MERN stack apps in his free time and mobile apps in React Native . I used to study Economics after finishing High school. However, during the Pandemic, I discovered my passion about Programming languages. I started with Python, a bit of C++ and then I decided to study Full Stack Web development in "Soy Henry Coding bootcamp".
-
-Currently I am improving both my coding skills and my soft skills to be an outstanding frontend developer.
+Hi! I'm Diego Carcausto, a software developer who enjoys developing Full stack apps in ReactJS/NodeJS and mobile apps in React Native in his free time.
 
 For some time I have been focusing in learning about mobile development. It seems to me a wonderful and challenging field in the IT world.
 
 In addition, I speak Spanish as my native language, English as my foreign language and I study German B1.
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krqui&label=Profile%20views&color=0e75b6&style=flat" alt="krqui" /> </p>
 
